@@ -12,6 +12,7 @@ ESTOPA_Analysis_Script.R	The main R script that executes all data cleaning, stat
 1_SupportingInformation1_SurveyResults_ESTOPA.xlsx	Raw student perception data from the Likert-scale survey (Q1-Q10).	survey_file
 2_SupportingInformation2_TestData.xlsx	Raw student achievement data, including performance by question, final grades, and group classification.	data_file
 BloomData.xlsx	Mapping file linking specific assessment questions to their corresponding Bloom's Taxonomy Level (B1-B6).	bloom_file
+SupportingInformation3_Bloom.docx. List of multiple-choice question stems related to the ESTOPA methodology, including temporal consistency and classification according to the revised Bloom’s taxonomy.
 
 Requirements
 Software
